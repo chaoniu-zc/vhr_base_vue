@@ -1,0 +1,58 @@
+[
+    {
+        "jobid": "10001",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"105"
+    },
+    {
+        "jobid": "10002",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"102"
+    },
+    {
+        "jobid": "10003",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"104"
+    },
+    {
+        "jobid": "10004",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"103"
+    },
+    {
+        "jobid": "10005",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"106"
+    },
+    {
+        "jobid": "10006",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"101"
+    },
+    {
+        "jobid": "10007",
+        "name": "姓名",
+        "sex": "性别",
+        "unit": "部门",
+        "jobname": "职称",
+        "accountid":"107"
+    }
+]
